@@ -1,1 +1,1 @@
-# VueX
+# VueX-player
